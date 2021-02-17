@@ -1,4 +1,4 @@
-#NOTE: 
+# NOTE: 
 
 Before you run this case please change the file 
 atom_vec_meso_multiphase.cpp in the src/USER-SPH folder.
