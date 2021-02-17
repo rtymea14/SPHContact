@@ -1,0 +1,148 @@
+dimension          2
+units              si
+atom_style         meso/multiphase
+boundary		   f f p
+
+variable		   xlow equal  -5
+variable		   xhig equal  5
+variable		   ylow equal  -1.5 #-1e-1
+variable		   yhig equal  1.5 #1e-1
+variable		   zlow equal -1e-4
+variable		   zhig equal  1e-4
+
+
+#read_data		data.dat
+# create simulation box
+region             box block ${xlow} ${xhig} ${ylow} ${yhig} ${zlow} ${zhig} units box
+create_box         2 box
+
+# we are using cubicspline kernel
+#variable		   radius equal 3.026e-3*0.094636278506
+variable		   radius equal 50e-3*0.094636278506
+variable		   lat equal 2*${radius} #4.7e-3
+variable		   h equal ${lat}*1.5
+variable		   cutoff equal ${h}*2
+variable		   cutoff2 equal ${lat}
+variable		   h2 equal ${cutoff2}*0.5
+variable		   cutoff3 equal ${radius}
+
+include 		   ./coordCircle3.csv
+include 		   ./coordCircle4.csv
+
+group 	   		   ring1 type 1
+group 	   		   ring2 type 2
+
+displace_atoms	   ring1 move -1e-3 0 0 units box
+displace_atoms	   ring2 move 1e-3 0 0 units box
+
+variable		   E equal 200e9
+variable		   nu equal 0.30
+variable		   G equal 77e9 #${E}/(2.0*(1.0+${nu}))
+variable		   K equal 169.208e9 #2.0*${G}*(1.0+${nu})/3.0/(1.0-2.0*${nu})
+variable		   c equal 3600 #5800
+variable		   sigma0 equal 634.42e6 #350e6
+variable		   B equal 147.98e6 #275e6
+variable		   C equal 0.0170 #0.022
+variable		   epsilonDot0 equal 1
+variable		   Tref equal 298
+variable		   Tmelt equal 1811
+variable		   n equal 0.36
+variable		   m equal 1
+variable		   rho0 equal 7850
+variable		   d0 equal ${radius}*2.0
+variable		   thetaC equal 70
+variable		   mass1 equal ${rho0}*${lat}*${lat}  #0.04517
+variable		   mass2 equal ${rho0}*${lat}*${lat}  #0.04517
+
+variable		   u equal 10 #0.767 #${c}*0.005
+velocity		   ring1 set ${u} 0 0 units box
+velocity		   ring2 set -${u} 0 0 units box
+
+set				   type 1 meso_cv 1
+set				   type 1 meso_e 0 # 1.26e6
+set				   type 1 meso_viscosity 0 
+set				   type 1 meso_radius ${radius} 
+set				   type 1 meso_csound ${c} 
+set				   type 1 mass ${mass1}
+set				   type 2 meso_cv 1
+set				   type 2 meso_e 0 # 1.26e6
+set				   type 2 meso_viscosity 0 
+set				   type 2 meso_radius ${radius} 
+set				   type 2 meso_csound ${c} 
+set				   type 2 mass ${mass2}
+set                group all meso_rho ${rho0}
+
+pair_style         hybrid/overlay sph/solidMechanics/mg  sph/colorgradient_new 1 sph/solidcontact_new# /mg = Mie-Gruneisen #/Murnaghan p = c0^2(rho - rho0)
+pair_coeff         1 1 sph/solidMechanics/mg 1 1 ${cutoff} ${h} ${G} 1.81 ${c} 1.80 ${rho0} ${E} yes 0.3 ${lat} 0.5
+pair_coeff         2 2 sph/solidMechanics/mg 1 1 ${cutoff} ${h} ${G} 1.81 ${c} 1.80 ${rho0} ${E} yes 0.3 ${lat} 0.5
+
+pair_coeff         1 1 sph/colorgradient_new  ${cutoff} 1
+pair_coeff         2 2 sph/colorgradient_new  ${cutoff} 1
+#pair_coeff         1 2 sph/colorgradient_new  ${cutoff2} 1
+pair_coeff         1 2 sph/solidcontact_new ${cutoff2} ${h2} ${E} ${E} ${d0} ${thetaC}
+
+fix                gfix all gravity 0 vector 0 -1 0
+
+compute            rho_peratom all meso_rho/atom
+compute            e_peratom all meso_e/atom
+compute            ke_peratom all ke/atom
+compute            esph all reduce sum c_e_peratom
+compute            ke all ke
+variable           etot equal c_ke+c_esph+f_gfix
+
+# do full time integration for shear driver and fluid, but keep walls stationary
+fix                integrate_fix_full all meso/PEC/solidMech
+
+compute         1 all sph/stress/atom
+compute         12 all sph/strain/atom
+compute         13 all sph/artStress/atom
+variable        sigmaXX atom c_1[1]
+variable        sigmaXY atom c_1[2]
+variable        sigmaYX atom c_1[4]
+variable        sigmaYY atom c_1[5]
+
+variable        epsilonXX atom c_12[1]
+variable        epsilonXY atom c_12[2]
+variable        epsilonYX atom c_12[4]
+variable        epsilonYY atom c_12[5]
+
+variable        artStressXX atom c_13[1]
+variable        artStressXY atom c_13[2]
+variable        artStressYX atom c_13[4]
+variable        artStressYY atom c_13[5]
+
+compute         2 all meso_e/atom
+
+compute			cg all sph/colorgradient/atom
+variable		cgx atom c_cg[1]
+variable		cgy atom c_cg[2]
+
+dump               dump_id all custom 100 dump.lammpstrj type id x y z vx vy vz fx fy fz p rho v_sigmaXX v_sigmaXY v_sigmaYX v_sigmaYY v_epsilonXX v_epsilonXY v_epsilonYX v_epsilonYY v_artStressXX v_artStressXY v_artStressYX v_artStressYY  v_cgx v_cgy
+dump_modify        dump_id first yes
+
+#group			   se id 137 #46 
+#compute			   strain se strain/sph
+#dump               selected se custom 100 se.lammpstrj type id x y z vx vy vz fx fy fz #v_sigmaYY c_strain[2]
+thermo             100
+#thermo             50
+variable			xcmx1 equal xcm(ring1,x)
+variable			xcmx2 equal xcm(ring2,x)
+variable			cm_x  equal ${xcmx2}-${xcmx1}
+variable			vcmx equal vcm(ring1,x)
+variable			vcmy equal vcm(ring1,y)
+variable			fcmx equal fcm(ring1,x)
+variable			fcmy equal fcm(ring1,y)
+variable			tmass equal mass(ring1)
+
+fix					aveForce all ave/time 1 250 250 v_fcmx v_fcmy ave one file force.dat
+thermo_style       custom step time v_vcmx v_vcmy v_fcmx v_fcmy v_tmass v_xcmx1 v_xcmx2 v_cm_x
+#thermo_style       custom step c_esph c_ke f_gfix v_etot  v_vcmx v_vcmy v_fcmx v_fcmy v_tmass v_xcmx1 v_xcmx2 v_cm_x
+thermo_modify      norm no
+
+#neighbor           ${lat} bin
+neighbor           1e-5 bin
+comm_modify        vel yes
+neigh_modify       delay 0 every 1 #check no binsize 0  once no
+thermo_modify	   lost ignore norm no
+timestep           1.0e-8
+run                1000000

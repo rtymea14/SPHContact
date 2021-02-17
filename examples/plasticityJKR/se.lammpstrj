@@ -1,0 +1,3580 @@
+ITEM: TIMESTEP
+0
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 0 0 0 0 -0.0774009 0 0 0 
+ITEM: TIMESTEP
+1
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -7.05569e-05 -9.81e-08 0 -55.6694 -0.0774009 0 -3066.87 -1.29815e-08 
+ITEM: TIMESTEP
+2
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00027914 -1.962e-07 0 -164.572 -0.0774009 0 -12252.9 -5.18728e-08 
+ITEM: TIMESTEP
+3
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.000620807 -2.943e-07 0 -269.575 -0.0774009 0 -27529.6 -1.16568e-07 
+ITEM: TIMESTEP
+4
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0010919 -3.924e-07 0 -371.69 -0.0774009 0 -48867.7 -2.06958e-07 
+ITEM: TIMESTEP
+5
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00168887 -4.905e-07 0 -471.013 -0.0774009 0 -76235.5 -3.22922e-07 
+ITEM: TIMESTEP
+6
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00240834 -5.886e-07 0 -567.659 -0.0774009 0 -109598 -4.64327e-07 
+ITEM: TIMESTEP
+7
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00324703 -6.867e-07 0 -661.732 -0.0774009 0 -148917 -6.3103e-07 
+ITEM: TIMESTEP
+8
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00420183 -7.848e-07 0 -753.332 -0.0774009 0 -194153 -8.22875e-07 
+ITEM: TIMESTEP
+9
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0052697 -8.829e-07 0 -842.553 -0.0774009 0 -245261 -1.0397e-06 
+ITEM: TIMESTEP
+10
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00644776 -9.81e-07 0 -929.485 -0.0774009 0 -302197 -1.28132e-06 
+ITEM: TIMESTEP
+11
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00773319 -1.0791e-06 0 -1014.21 -0.0774009 0 -364913 -1.54757e-06 
+ITEM: TIMESTEP
+12
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.00912332 -1.1772e-06 0 -1096.81 -0.0774009 0 -433358 -1.83824e-06 
+ITEM: TIMESTEP
+13
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0106155 -1.2753e-06 0 -1177.35 -0.0774009 0 -507481 -2.15314e-06 
+ITEM: TIMESTEP
+14
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0122073 -1.3734e-06 0 -1255.92 -0.0774009 0 -587228 -2.49206e-06 
+ITEM: TIMESTEP
+15
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0138962 -1.4715e-06 0 -1332.57 -0.0774009 0 -672542 -2.85479e-06 
+ITEM: TIMESTEP
+16
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.01568 -1.5696e-06 0 -1407.36 -0.0774009 0 -763367 -3.2411e-06 
+ITEM: TIMESTEP
+17
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0175562 -1.6677e-06 0 -1480.37 -0.0774009 0 -859644 -3.65077e-06 
+ITEM: TIMESTEP
+18
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0195228 -1.7658e-06 0 -1551.64 -0.0774009 0 -961313 -4.08357e-06 
+ITEM: TIMESTEP
+19
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0215776 -1.8639e-06 0 -1621.23 -0.0774009 0 -1.06831e+06 -4.53927e-06 
+ITEM: TIMESTEP
+20
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0237186 -1.962e-06 0 -1689.19 -0.0774009 0 -1.18058e+06 -5.01761e-06 
+ITEM: TIMESTEP
+21
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0259436 -2.0601e-06 0 -1755.57 -0.0774009 0 -1.29805e+06 -5.51837e-06 
+ITEM: TIMESTEP
+22
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0282508 -2.1582e-06 0 -1820.41 -0.0774009 0 -1.42066e+06 -6.04128e-06 
+ITEM: TIMESTEP
+23
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0306384 -2.2563e-06 0 -1883.76 -0.0774009 0 -1.54834e+06 -6.58609e-06 
+ITEM: TIMESTEP
+24
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0331044 -2.3544e-06 0 -1945.66 -0.0774009 0 -1.68103e+06 -7.15255e-06 
+ITEM: TIMESTEP
+25
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.035647 -2.4525e-06 0 -2006.14 -0.0774009 0 -1.81866e+06 -7.74041e-06 
+ITEM: TIMESTEP
+26
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0382646 -2.5506e-06 0 -2065.25 -0.0774009 0 -1.96116e+06 -8.34939e-06 
+ITEM: TIMESTEP
+27
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0409553 -2.6487e-06 0 -2123.02 -0.0774009 0 -2.10846e+06 -8.97925e-06 
+ITEM: TIMESTEP
+28
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0437177 -2.7468e-06 0 -2179.48 -0.0774009 0 -2.2605e+06 -9.62971e-06 
+ITEM: TIMESTEP
+29
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.04655 -2.8449e-06 0 -2234.67 -0.0774009 0 -2.41721e+06 -1.03005e-05 
+ITEM: TIMESTEP
+30
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0494506 -2.943e-06 0 -2288.62 -0.0774009 0 -2.57851e+06 -1.09914e-05 
+ITEM: TIMESTEP
+31
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0524181 -3.0411e-06 0 -2341.35 -0.0774009 0 -2.74433e+06 -1.17021e-05 
+ITEM: TIMESTEP
+32
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0554509 -3.1392e-06 0 -2392.89 -0.0774009 0 -2.91461e+06 -1.24323e-05 
+ITEM: TIMESTEP
+33
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0585476 -3.2373e-06 0 -2443.27 -0.0774009 0 -3.08928e+06 -1.31817e-05 
+ITEM: TIMESTEP
+34
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0617067 -3.3354e-06 0 -2492.52 -0.0774009 0 -3.26827e+06 -1.39502e-05 
+ITEM: TIMESTEP
+35
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0649268 -3.4335e-06 0 -2540.65 -0.0774009 0 -3.4515e+06 -1.47374e-05 
+ITEM: TIMESTEP
+36
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0682065 -3.5316e-06 0 -2587.7 -0.0774009 0 -3.63891e+06 -1.55431e-05 
+ITEM: TIMESTEP
+37
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0715445 -3.6297e-06 0 -2633.68 -0.0774009 0 -3.83042e+06 -1.6367e-05 
+ITEM: TIMESTEP
+38
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0749394 -3.7278e-06 0 -2678.62 -0.0774009 0 -4.02597e+06 -1.72088e-05 
+ITEM: TIMESTEP
+39
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0783901 -3.8259e-06 0 -2722.54 -0.0774009 0 -4.22548e+06 -1.80682e-05 
+ITEM: TIMESTEP
+40
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0818951 -3.924e-06 0 -2765.45 -0.0774009 0 -4.4289e+06 -1.89451e-05 
+ITEM: TIMESTEP
+41
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0854532 -4.0221e-06 0 -2807.38 -0.0774009 0 -4.63614e+06 -1.98391e-05 
+ITEM: TIMESTEP
+42
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0890633 -4.1202e-06 0 -2848.34 -0.0774009 0 -4.84714e+06 -2.075e-05 
+ITEM: TIMESTEP
+43
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0927241 -4.2183e-06 0 -2888.35 -0.0774009 0 -5.06184e+06 -2.16775e-05 
+ITEM: TIMESTEP
+44
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.0964344 -4.3164e-06 0 -2927.44 -0.0774009 0 -5.28016e+06 -2.26213e-05 
+ITEM: TIMESTEP
+45
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.100193 -4.4145e-06 0 -2965.61 -0.0774009 0 -5.50204e+06 -2.35812e-05 
+ITEM: TIMESTEP
+46
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.103999 -4.5126e-06 0 -3002.88 -0.0774009 0 -5.7274e+06 -2.4557e-05 
+ITEM: TIMESTEP
+47
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.107851 -4.6107e-06 0 -3039.26 -0.0774009 0 -5.9562e+06 -2.55484e-05 
+ITEM: TIMESTEP
+48
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.111748 -4.7088e-06 0 -3074.78 -0.0774009 0 -6.18835e+06 -2.65551e-05 
+ITEM: TIMESTEP
+49
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.115689 -4.8069e-06 0 -3109.45 -0.0774009 0 -6.4238e+06 -2.7577e-05 
+ITEM: TIMESTEP
+50
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.119673 -4.905e-06 0 -3143.27 -0.0774009 0 -6.66248e+06 -2.86136e-05 
+ITEM: TIMESTEP
+51
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.123699 -5.0031e-06 0 -3176.28 -0.0774009 0 -6.90432e+06 -2.96649e-05 
+ITEM: TIMESTEP
+52
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.127765 -5.1012e-06 0 -3208.47 -0.0774009 0 -7.14927e+06 -3.07306e-05 
+ITEM: TIMESTEP
+53
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.131871 -5.1993e-06 0 -3239.86 -0.0774009 0 -7.39727e+06 -3.18104e-05 
+ITEM: TIMESTEP
+54
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.136017 -5.2974e-06 0 -3270.46 -0.0774009 0 -7.64824e+06 -3.2904e-05 
+ITEM: TIMESTEP
+55
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.140199 -5.3955e-06 0 -3300.29 -0.0774009 0 -7.90213e+06 -3.40114e-05 
+ITEM: TIMESTEP
+56
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.144419 -5.4936e-06 0 -3329.36 -0.0774009 0 -8.15888e+06 -3.51321e-05 
+ITEM: TIMESTEP
+57
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.148675 -5.5917e-06 0 -3357.68 -0.0774009 0 -8.41842e+06 -3.62661e-05 
+ITEM: TIMESTEP
+58
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.152965 -5.6898e-06 0 -3385.25 -0.0774009 0 -8.68071e+06 -3.7413e-05 
+ITEM: TIMESTEP
+59
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.15729 -5.7879e-06 0 -3412.1 -0.0774009 0 -8.94568e+06 -3.85727e-05 
+ITEM: TIMESTEP
+60
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.161648 -5.886e-06 0 -3438.23 -0.0774009 0 -9.21328e+06 -3.97449e-05 
+ITEM: TIMESTEP
+61
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.166038 -5.9841e-06 0 -3463.65 -0.0774009 0 -9.48344e+06 -4.09294e-05 
+ITEM: TIMESTEP
+62
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.170459 -6.0822e-06 0 -3488.38 -0.0774009 0 -9.75613e+06 -4.21261e-05 
+ITEM: TIMESTEP
+63
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.174911 -6.1803e-06 0 -3512.42 -0.0774009 0 -1.00313e+07 -4.33346e-05 
+ITEM: TIMESTEP
+64
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.179392 -6.2784e-06 0 -3535.79 -0.0774009 0 -1.03088e+07 -4.45549e-05 
+ITEM: TIMESTEP
+65
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.183902 -6.3765e-06 0 -3558.5 -0.0774009 0 -1.05887e+07 -4.57866e-05 
+ITEM: TIMESTEP
+66
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.18844 -6.4746e-06 0 -3580.56 -0.0774009 0 -1.08709e+07 -4.70297e-05 
+ITEM: TIMESTEP
+67
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.193005 -6.5727e-06 0 -3601.98 -0.0774009 0 -1.11554e+07 -4.82838e-05 
+ITEM: TIMESTEP
+68
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.197597 -6.6708e-06 0 -3622.77 -0.0774009 0 -1.14421e+07 -4.95489e-05 
+ITEM: TIMESTEP
+69
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.202214 -6.7689e-06 0 -3642.94 -0.0774009 0 -1.17309e+07 -5.08248e-05 
+ITEM: TIMESTEP
+70
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.206856 -6.867e-06 0 -3662.49 -0.0774009 0 -1.20219e+07 -5.21112e-05 
+ITEM: TIMESTEP
+71
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.211522 -6.9651e-06 0 -3681.44 -0.0774009 0 -1.23149e+07 -5.34079e-05 
+ITEM: TIMESTEP
+72
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.216211 -7.0632e-06 0 -3699.79 -0.0774009 0 -1.26099e+07 -5.47149e-05 
+ITEM: TIMESTEP
+73
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.220923 -7.1613e-06 0 -3717.57 -0.0774009 0 -1.29069e+07 -5.60319e-05 
+ITEM: TIMESTEP
+74
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.225657 -7.2594e-06 0 -3734.76 -0.0774009 0 -1.32058e+07 -5.73588e-05 
+ITEM: TIMESTEP
+75
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.230411 -7.3575e-06 0 -3751.39 -0.0774009 0 -1.35067e+07 -5.86954e-05 
+ITEM: TIMESTEP
+76
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.235186 -7.4556e-06 0 -3767.46 -0.0774009 0 -1.38093e+07 -6.00415e-05 
+ITEM: TIMESTEP
+77
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.239981 -7.5537e-06 0 -3782.99 -0.0774009 0 -1.41138e+07 -6.1397e-05 
+ITEM: TIMESTEP
+78
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.244794 -7.6518e-06 0 -3797.97 -0.0774009 0 -1.44201e+07 -6.27618e-05 
+ITEM: TIMESTEP
+79
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.249626 -7.7499e-06 0 -3812.43 -0.0774009 0 -1.47281e+07 -6.41357e-05 
+ITEM: TIMESTEP
+80
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.254476 -7.848e-06 0 -3826.36 -0.0774009 0 -1.50378e+07 -6.55185e-05 
+ITEM: TIMESTEP
+81
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.259343 -7.9461e-06 0 -3839.78 -0.0774009 0 -1.53491e+07 -6.69102e-05 
+ITEM: TIMESTEP
+82
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.264226 -8.0442e-06 0 -3852.7 -0.0774009 0 -1.56621e+07 -6.83106e-05 
+ITEM: TIMESTEP
+83
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.269124 -8.1423e-06 0 -3865.12 -0.0774009 0 -1.59767e+07 -6.97195e-05 
+ITEM: TIMESTEP
+84
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.274038 -8.2404e-06 0 -3877.06 -0.0774009 0 -1.62928e+07 -7.11368e-05 
+ITEM: TIMESTEP
+85
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.278967 -8.3385e-06 0 -3888.52 -0.0774009 0 -1.66105e+07 -7.25624e-05 
+ITEM: TIMESTEP
+86
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.283909 -8.4366e-06 0 -3899.51 -0.0774009 0 -1.69297e+07 -7.39962e-05 
+ITEM: TIMESTEP
+87
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.288865 -8.5347e-06 0 -3910.04 -0.0774009 0 -1.72503e+07 -7.54381e-05 
+ITEM: TIMESTEP
+88
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.293833 -8.6328e-06 0 -3920.11 -0.0774009 0 -1.75724e+07 -7.68879e-05 
+ITEM: TIMESTEP
+89
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.298814 -8.7309e-06 0 -3929.75 -0.0774009 0 -1.78959e+07 -7.83456e-05 
+ITEM: TIMESTEP
+90
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.303806 -8.829e-06 0 -3938.94 -0.0774009 0 -1.82208e+07 -7.9811e-05 
+ITEM: TIMESTEP
+91
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.30881 -8.9271e-06 0 -3947.71 -0.0774009 0 -1.85471e+07 -8.12841e-05 
+ITEM: TIMESTEP
+92
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.313824 -9.0252e-06 0 -3956.07 -0.0774009 0 -1.88747e+07 -8.27647e-05 
+ITEM: TIMESTEP
+93
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.318848 -9.1233e-06 0 -3964.01 -0.0774009 0 -1.92037e+07 -8.42527e-05 
+ITEM: TIMESTEP
+94
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.323881 -9.2214e-06 0 -3971.54 -0.0774009 0 -1.95339e+07 -8.57481e-05 
+ITEM: TIMESTEP
+95
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.328924 -9.3195e-06 0 -3978.68 -0.0774009 0 -1.98654e+07 -8.72507e-05 
+ITEM: TIMESTEP
+96
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.333975 -9.4176e-06 0 -3985.33 -0.0774009 0 -2.01982e+07 -8.87606e-05 
+ITEM: TIMESTEP
+97
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.339034 -9.5157e-06 0 -3991.33 -0.0774009 0 -2.05322e+07 -9.02775e-05 
+ITEM: TIMESTEP
+98
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.3441 -9.6138e-06 0 -3996.97 -0.0774009 0 -2.08674e+07 -9.18014e-05 
+ITEM: TIMESTEP
+99
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.349172 -9.7119e-06 0 -4002.27 -0.0774009 0 -2.12038e+07 -9.33323e-05 
+ITEM: TIMESTEP
+100
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.354251 -9.81e-06 0 -4007.23 -0.0774009 0 -2.15414e+07 -9.48701e-05 
+ITEM: TIMESTEP
+101
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.359336 -9.9081e-06 0 -4011.85 -0.0774009 0 -2.18802e+07 -9.64146e-05 
+ITEM: TIMESTEP
+102
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.364426 -1.00062e-05 0 -4016.15 -0.0774009 0 -2.22201e+07 -9.79659e-05 
+ITEM: TIMESTEP
+103
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.369521 -1.01043e-05 0 -4020.13 -0.0774009 0 -2.25612e+07 -9.95239e-05 
+ITEM: TIMESTEP
+104
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.374621 -1.02024e-05 0 -4023.8 -0.0774009 0 -2.29034e+07 -0.000101088 
+ITEM: TIMESTEP
+105
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.379725 -1.03005e-05 0 -4027.17 -0.0774009 0 -2.32467e+07 -0.00010266 
+ITEM: TIMESTEP
+106
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.384833 -1.03986e-05 0 -4030.23 -0.0774009 0 -2.35911e+07 -0.000104237 
+ITEM: TIMESTEP
+107
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.389945 -1.04967e-05 0 -4033.02 -0.0774009 0 -2.39366e+07 -0.000105821 
+ITEM: TIMESTEP
+108
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.39506 -1.05948e-05 0 -4035.51 -0.0774009 0 -2.42832e+07 -0.000107412 
+ITEM: TIMESTEP
+109
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.400177 -1.06929e-05 0 -4037.81 -0.0774009 0 -2.46309e+07 -0.000109009 
+ITEM: TIMESTEP
+110
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.405298 -1.0791e-05 0 -4039.91 -0.0774009 0 -2.49796e+07 -0.000110612 
+ITEM: TIMESTEP
+111
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.41042 -1.08891e-05 0 -4041.79 -0.0774009 0 -2.53294e+07 -0.000112221 
+ITEM: TIMESTEP
+112
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.415545 -1.09872e-05 0 -4043.46 -0.0774009 0 -2.56802e+07 -0.000113836 
+ITEM: TIMESTEP
+113
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.420672 -1.10853e-05 0 -4044.93 -0.0774009 0 -2.6032e+07 -0.000115458 
+ITEM: TIMESTEP
+114
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.4258 -1.11834e-05 0 -4046.2 -0.0774009 0 -2.63849e+07 -0.000117086 
+ITEM: TIMESTEP
+115
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.43093 -1.12815e-05 0 -4047.28 -0.0774009 0 -2.67388e+07 -0.00011872 
+ITEM: TIMESTEP
+116
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.43606 -1.13796e-05 0 -4048.15 -0.0774009 0 -2.70936e+07 -0.000120359 
+ITEM: TIMESTEP
+117
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.441192 -1.14777e-05 0 -4048.84 -0.0774009 0 -2.74495e+07 -0.000122005 
+ITEM: TIMESTEP
+118
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.446324 -1.15758e-05 0 -4049.34 -0.0774009 0 -2.78064e+07 -0.000123657 
+ITEM: TIMESTEP
+119
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.451457 -1.16739e-05 0 -4049.65 -0.0774009 0 -2.81643e+07 -0.000125315 
+ITEM: TIMESTEP
+120
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.45659 -1.1772e-05 0 -4049.78 -0.0774009 0 -2.85231e+07 -0.000126978 
+ITEM: TIMESTEP
+121
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.461722 -1.18701e-05 0 -4049.73 -0.0774009 0 -2.8883e+07 -0.000128648 
+ITEM: TIMESTEP
+122
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.466855 -1.19682e-05 0 -4049.5 -0.0774009 0 -2.92438e+07 -0.000130323 
+ITEM: TIMESTEP
+123
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.471987 -1.20663e-05 0 -4049.09 -0.0774009 0 -2.96056e+07 -0.000132004 
+ITEM: TIMESTEP
+124
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.477118 -1.21644e-05 0 -4048.51 -0.0774009 0 -2.99684e+07 -0.000133691 
+ITEM: TIMESTEP
+125
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.482248 -1.22625e-05 0 -4047.76 -0.0774009 0 -3.03322e+07 -0.000135383 
+ITEM: TIMESTEP
+126
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.487377 -1.23606e-05 0 -4046.85 -0.0774009 0 -3.06969e+07 -0.000137082 
+ITEM: TIMESTEP
+127
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.492505 -1.24587e-05 0 -4045.78 -0.0774009 0 -3.10627e+07 -0.000138786 
+ITEM: TIMESTEP
+128
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.497631 -1.25568e-05 0 -4044.56 -0.0774009 0 -3.14294e+07 -0.000140496 
+ITEM: TIMESTEP
+129
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.502756 -1.26549e-05 0 -4043.18 -0.0774009 0 -3.1797e+07 -0.000142211 
+ITEM: TIMESTEP
+130
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.507878 -1.2753e-05 0 -4041.65 -0.0774009 0 -3.21657e+07 -0.000143932 
+ITEM: TIMESTEP
+131
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.512999 -1.28511e-05 0 -4039.98 -0.0774009 0 -3.25354e+07 -0.000145659 
+ITEM: TIMESTEP
+132
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.518117 -1.29492e-05 0 -4038.17 -0.0774009 0 -3.2906e+07 -0.000147392 
+ITEM: TIMESTEP
+133
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.523232 -1.30473e-05 0 -4036.22 -0.0774009 0 -3.32776e+07 -0.00014913 
+ITEM: TIMESTEP
+134
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.528345 -1.31454e-05 0 -4034.15 -0.0774009 0 -3.36502e+07 -0.000150874 
+ITEM: TIMESTEP
+135
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.533455 -1.32435e-05 0 -4031.94 -0.0774009 0 -3.40239e+07 -0.000152624 
+ITEM: TIMESTEP
+136
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.538563 -1.33416e-05 0 -4029.61 -0.0774009 0 -3.43985e+07 -0.000154379 
+ITEM: TIMESTEP
+137
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.543667 -1.34397e-05 0 -4027.16 -0.0774009 0 -3.47741e+07 -0.00015614 
+ITEM: TIMESTEP
+138
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.548768 -1.35378e-05 0 -4024.59 -0.0774009 0 -3.51508e+07 -0.000157907 
+ITEM: TIMESTEP
+139
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.553865 -1.36359e-05 0 -4021.91 -0.0774009 0 -3.55284e+07 -0.000159679 
+ITEM: TIMESTEP
+140
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.558959 -1.3734e-05 0 -4019.13 -0.0774009 0 -3.59071e+07 -0.000161457 
+ITEM: TIMESTEP
+141
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.564049 -1.38321e-05 0 -4016.23 -0.0774009 0 -3.62868e+07 -0.000163241 
+ITEM: TIMESTEP
+142
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.569136 -1.39302e-05 0 -4013.24 -0.0774009 0 -3.66676e+07 -0.000165031 
+ITEM: TIMESTEP
+143
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.574218 -1.40283e-05 0 -4010.16 -0.0774009 0 -3.70494e+07 -0.000166826 
+ITEM: TIMESTEP
+144
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.579297 -1.41264e-05 0 -4006.98 -0.0774009 0 -3.74322e+07 -0.000168626 
+ITEM: TIMESTEP
+145
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.584371 -1.42245e-05 0 -4003.73 -0.0774009 0 -3.78162e+07 -0.000170433 
+ITEM: TIMESTEP
+146
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.589442 -1.43226e-05 0 -4000.4 -0.0774009 0 -3.82011e+07 -0.000172245 
+ITEM: TIMESTEP
+147
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.594508 -1.44207e-05 0 -3997.01 -0.0774009 0 -3.85872e+07 -0.000174063 
+ITEM: TIMESTEP
+148
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.599569 -1.45188e-05 0 -3993.54 -0.0774009 0 -3.89743e+07 -0.000175887 
+ITEM: TIMESTEP
+149
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.604626 -1.46169e-05 0 -3990.01 -0.0774009 0 -3.93625e+07 -0.000177716 
+ITEM: TIMESTEP
+150
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.609679 -1.4715e-05 0 -3986.41 -0.0774009 0 -3.97518e+07 -0.000179551 
+ITEM: TIMESTEP
+151
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.614727 -1.48131e-05 0 -3982.76 -0.0774009 0 -4.01422e+07 -0.000181392 
+ITEM: TIMESTEP
+152
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.61977 -1.49112e-05 0 -3979.04 -0.0774009 0 -4.05338e+07 -0.000183238 
+ITEM: TIMESTEP
+153
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.624808 -1.50093e-05 0 -3975.28 -0.0774009 0 -4.09264e+07 -0.000185091 
+ITEM: TIMESTEP
+154
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.629842 -1.51074e-05 0 -3971.46 -0.0774009 0 -4.13202e+07 -0.000186949 
+ITEM: TIMESTEP
+155
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.63487 -1.52055e-05 0 -3967.6 -0.0774009 0 -4.17151e+07 -0.000188813 
+ITEM: TIMESTEP
+156
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.639894 -1.53036e-05 0 -3963.7 -0.0774009 0 -4.21111e+07 -0.000190682 
+ITEM: TIMESTEP
+157
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.644913 -1.54017e-05 0 -3959.76 -0.0774009 0 -4.25084e+07 -0.000192558 
+ITEM: TIMESTEP
+158
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.649926 -1.54998e-05 0 -3955.78 -0.0774009 0 -4.29067e+07 -0.000194439 
+ITEM: TIMESTEP
+159
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.654935 -1.55979e-05 0 -3951.78 -0.0774009 0 -4.33063e+07 -0.000196326 
+ITEM: TIMESTEP
+160
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.659938 -1.5696e-05 0 -3947.74 -0.0774009 0 -4.3707e+07 -0.000198219 
+ITEM: TIMESTEP
+161
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.664937 -1.57941e-05 0 -3943.68 -0.0774009 0 -4.41089e+07 -0.000200118 
+ITEM: TIMESTEP
+162
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.66993 -1.58922e-05 0 -3939.61 -0.0774009 0 -4.4512e+07 -0.000202023 
+ITEM: TIMESTEP
+163
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.128 0.25 0 -0.674918 -1.59903e-05 0 -3935.53 -0.0774009 0 -4.49164e+07 -0.000203933 
+ITEM: TIMESTEP
+164
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.679901 -1.60884e-05 0 -3931.46 -0.0774009 0 -4.53219e+07 -0.00020585 
+ITEM: TIMESTEP
+165
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.684878 -1.61865e-05 0 -3927.38 -0.0774009 0 -4.57287e+07 -0.000207772 
+ITEM: TIMESTEP
+166
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.689851 -1.62846e-05 0 -3923.31 -0.0774009 0 -4.61367e+07 -0.0002097 
+ITEM: TIMESTEP
+167
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.694818 -1.63827e-05 0 -3919.25 -0.0774009 0 -4.65459e+07 -0.000211635 
+ITEM: TIMESTEP
+168
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.69978 -1.64808e-05 0 -3915.19 -0.0774009 0 -4.69564e+07 -0.000213575 
+ITEM: TIMESTEP
+169
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.704738 -1.65789e-05 0 -3911.15 -0.0774009 0 -4.73681e+07 -0.000215521 
+ITEM: TIMESTEP
+170
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.70969 -1.6677e-05 0 -3907.11 -0.0774009 0 -4.77811e+07 -0.000217473 
+ITEM: TIMESTEP
+171
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.714636 -1.67751e-05 0 -3903.1 -0.0774009 0 -4.81954e+07 -0.000219431 
+ITEM: TIMESTEP
+172
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.719578 -1.68732e-05 0 -3899.1 -0.0774009 0 -4.8611e+07 -0.000221395 
+ITEM: TIMESTEP
+173
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.724515 -1.69713e-05 0 -3895.13 -0.0774009 0 -4.90279e+07 -0.000223365 
+ITEM: TIMESTEP
+174
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.729447 -1.70694e-05 0 -3891.18 -0.0774009 0 -4.9446e+07 -0.000225341 
+ITEM: TIMESTEP
+175
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.734374 -1.71675e-05 0 -3887.26 -0.0774009 0 -4.98655e+07 -0.000227323 
+ITEM: TIMESTEP
+176
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.739296 -1.72656e-05 0 -3883.37 -0.0774009 0 -5.02863e+07 -0.000229311 
+ITEM: TIMESTEP
+177
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.744213 -1.73637e-05 0 -3879.51 -0.0774009 0 -5.07084e+07 -0.000231305 
+ITEM: TIMESTEP
+178
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.749125 -1.74618e-05 0 -3875.68 -0.0774009 0 -5.11319e+07 -0.000233305 
+ITEM: TIMESTEP
+179
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.754032 -1.75599e-05 0 -3871.89 -0.0774009 0 -5.15566e+07 -0.000235311 
+ITEM: TIMESTEP
+180
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.758935 -1.7658e-05 0 -3868.14 -0.0774009 0 -5.19828e+07 -0.000237323 
+ITEM: TIMESTEP
+181
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.763833 -1.77561e-05 0 -3864.43 -0.0774009 0 -5.24103e+07 -0.000239342 
+ITEM: TIMESTEP
+182
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.768726 -1.78542e-05 0 -3860.77 -0.0774009 0 -5.28391e+07 -0.000241366 
+ITEM: TIMESTEP
+183
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.773614 -1.79523e-05 0 -3857.15 -0.0774009 0 -5.32693e+07 -0.000243397 
+ITEM: TIMESTEP
+184
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.778499 -1.80504e-05 0 -3853.58 -0.0774009 0 -5.37009e+07 -0.000245433 
+ITEM: TIMESTEP
+185
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.783378 -1.81485e-05 0 -3850.05 -0.0774009 0 -5.41339e+07 -0.000247476 
+ITEM: TIMESTEP
+186
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.788253 -1.82466e-05 0 -3846.58 -0.0774009 0 -5.45683e+07 -0.000249524 
+ITEM: TIMESTEP
+187
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.793124 -1.83447e-05 0 -3843.17 -0.0774009 0 -5.5004e+07 -0.000251579 
+ITEM: TIMESTEP
+188
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.797991 -1.84428e-05 0 -3839.81 -0.0774009 0 -5.54412e+07 -0.00025364 
+ITEM: TIMESTEP
+189
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.802854 -1.85409e-05 0 -3836.5 -0.0774009 0 -5.58798e+07 -0.000255707 
+ITEM: TIMESTEP
+190
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.807712 -1.8639e-05 0 -3833.26 -0.0774009 0 -5.63198e+07 -0.00025778 
+ITEM: TIMESTEP
+191
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.812566 -1.87371e-05 0 -3830.08 -0.0774009 0 -5.67612e+07 -0.00025986 
+ITEM: TIMESTEP
+192
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.817417 -1.88352e-05 0 -3826.96 -0.0774009 0 -5.72041e+07 -0.000261945 
+ITEM: TIMESTEP
+193
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.822263 -1.89333e-05 0 -3823.9 -0.0774009 0 -5.76483e+07 -0.000264037 
+ITEM: TIMESTEP
+194
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.827106 -1.90314e-05 0 -3820.91 -0.0774009 0 -5.80941e+07 -0.000266134 
+ITEM: TIMESTEP
+195
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.831945 -1.91295e-05 0 -3817.99 -0.0774009 0 -5.85412e+07 -0.000268238 
+ITEM: TIMESTEP
+196
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.83678 -1.92276e-05 0 -3815.13 -0.0774009 0 -5.89898e+07 -0.000270348 
+ITEM: TIMESTEP
+197
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.841612 -1.93257e-05 0 -3812.35 -0.0774009 0 -5.94399e+07 -0.000272464 
+ITEM: TIMESTEP
+198
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.846441 -1.94238e-05 0 -3809.63 -0.0774009 0 -5.98914e+07 -0.000274586 
+ITEM: TIMESTEP
+199
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.851266 -1.95219e-05 0 -3806.99 -0.0774009 0 -6.03444e+07 -0.000276715 
+ITEM: TIMESTEP
+200
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.856088 -1.962e-05 0 -3804.42 -0.0774009 0 -6.07988e+07 -0.000278849 
+ITEM: TIMESTEP
+201
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.860906 -1.97181e-05 0 -3801.92 -0.0774009 0 -6.12548e+07 -0.00028099 
+ITEM: TIMESTEP
+202
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.865722 -1.98162e-05 0 -3799.5 -0.0774009 0 -6.17121e+07 -0.000283136 
+ITEM: TIMESTEP
+203
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.870534 -1.99143e-05 0 -3797.16 -0.0774009 0 -6.2171e+07 -0.000285289 
+ITEM: TIMESTEP
+204
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.875344 -2.00124e-05 0 -3794.89 -0.0774009 0 -6.26314e+07 -0.000287448 
+ITEM: TIMESTEP
+205
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.880151 -2.01105e-05 0 -3792.7 -0.0774009 0 -6.30932e+07 -0.000289613 
+ITEM: TIMESTEP
+206
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.884955 -2.02086e-05 0 -3790.59 -0.0774009 0 -6.35565e+07 -0.000291784 
+ITEM: TIMESTEP
+207
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.889757 -2.03067e-05 0 -3788.56 -0.0774009 0 -6.40213e+07 -0.000293962 
+ITEM: TIMESTEP
+208
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.894556 -2.04048e-05 0 -3786.61 -0.0774009 0 -6.44876e+07 -0.000296145 
+ITEM: TIMESTEP
+209
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.899353 -2.05029e-05 0 -3784.74 -0.0774009 0 -6.49554e+07 -0.000298334 
+ITEM: TIMESTEP
+210
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.904148 -2.0601e-05 0 -3782.95 -0.0774009 0 -6.54246e+07 -0.00030053 
+ITEM: TIMESTEP
+211
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.90894 -2.06991e-05 0 -3781.25 -0.0774009 0 -6.58954e+07 -0.000302731 
+ITEM: TIMESTEP
+212
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.913731 -2.07972e-05 0 -3779.62 -0.0774009 0 -6.63677e+07 -0.000304939 
+ITEM: TIMESTEP
+213
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.918519 -2.08953e-05 0 -3778.08 -0.0774009 0 -6.68414e+07 -0.000307153 
+ITEM: TIMESTEP
+214
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.923306 -2.09934e-05 0 -3776.63 -0.0774009 0 -6.73167e+07 -0.000309372 
+ITEM: TIMESTEP
+215
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.928091 -2.10915e-05 0 -3775.25 -0.0774009 0 -6.77935e+07 -0.000311598 
+ITEM: TIMESTEP
+216
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.932874 -2.11896e-05 0 -3773.97 -0.0774009 0 -6.82717e+07 -0.00031383 
+ITEM: TIMESTEP
+217
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.937656 -2.12877e-05 0 -3772.76 -0.0774009 0 -6.87515e+07 -0.000316068 
+ITEM: TIMESTEP
+218
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.942436 -2.13858e-05 0 -3771.64 -0.0774009 0 -6.92328e+07 -0.000318311 
+ITEM: TIMESTEP
+219
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.947215 -2.14839e-05 0 -3770.61 -0.0774009 0 -6.97155e+07 -0.000320561 
+ITEM: TIMESTEP
+220
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.951993 -2.1582e-05 0 -3769.66 -0.0774009 0 -7.01998e+07 -0.000322817 
+ITEM: TIMESTEP
+221
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.956769 -2.16801e-05 0 -3768.8 -0.0774009 0 -7.06855e+07 -0.000325078 
+ITEM: TIMESTEP
+222
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.961545 -2.17782e-05 0 -3768.02 -0.0774009 0 -7.11728e+07 -0.000327346 
+ITEM: TIMESTEP
+223
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.96632 -2.18763e-05 0 -3767.33 -0.0774009 0 -7.16615e+07 -0.00032962 
+ITEM: TIMESTEP
+224
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.971094 -2.19744e-05 0 -3766.73 -0.0774009 0 -7.21518e+07 -0.000331899 
+ITEM: TIMESTEP
+225
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.975867 -2.20725e-05 0 -3766.2 -0.0774009 0 -7.26435e+07 -0.000334185 
+ITEM: TIMESTEP
+226
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.98064 -2.21706e-05 0 -3765.77 -0.0774009 0 -7.31367e+07 -0.000336476 
+ITEM: TIMESTEP
+227
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.985412 -2.22687e-05 0 -3765.42 -0.0774009 0 -7.36315e+07 -0.000338773 
+ITEM: TIMESTEP
+228
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.990185 -2.23668e-05 0 -3765.15 -0.0774009 0 -7.41277e+07 -0.000341076 
+ITEM: TIMESTEP
+229
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.994956 -2.24649e-05 0 -3764.97 -0.0774009 0 -7.46254e+07 -0.000343385 
+ITEM: TIMESTEP
+230
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -0.999728 -2.2563e-05 0 -3764.87 -0.0774009 0 -7.51245e+07 -0.0003457 
+ITEM: TIMESTEP
+231
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.0045 -2.26611e-05 0 -3764.85 -0.0774009 0 -7.56252e+07 -0.00034802 
+ITEM: TIMESTEP
+232
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.00927 -2.27592e-05 0 -3764.92 -0.0774009 0 -7.61273e+07 -0.000350347 
+ITEM: TIMESTEP
+233
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.01404 -2.28573e-05 0 -3765.08 -0.0774009 0 -7.66309e+07 -0.000352679 
+ITEM: TIMESTEP
+234
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.01882 -2.29554e-05 0 -3765.31 -0.0774009 0 -7.7136e+07 -0.000355017 
+ITEM: TIMESTEP
+235
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.02359 -2.30535e-05 0 -3765.63 -0.0774009 0 -7.76426e+07 -0.000357361 
+ITEM: TIMESTEP
+236
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.02836 -2.31516e-05 0 -3766.02 -0.0774009 0 -7.81506e+07 -0.00035971 
+ITEM: TIMESTEP
+237
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.03314 -2.32497e-05 0 -3766.5 -0.0774009 0 -7.86601e+07 -0.000362065 
+ITEM: TIMESTEP
+238
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.03791 -2.33478e-05 0 -3767.06 -0.0774009 0 -7.9171e+07 -0.000364426 
+ITEM: TIMESTEP
+239
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.04268 -2.34459e-05 0 -3767.39 -0.0774009 0 -7.96834e+07 -0.000366792 
+ITEM: TIMESTEP
+240
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.04746 -2.3544e-05 0 -3767.79 -0.0774009 0 -8.01972e+07 -0.000369164 
+ITEM: TIMESTEP
+241
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.05224 -2.36421e-05 0 -3768.29 -0.0774009 0 -8.07125e+07 -0.000371542 
+ITEM: TIMESTEP
+242
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.05701 -2.37402e-05 0 -3768.87 -0.0774009 0 -8.12292e+07 -0.000373926 
+ITEM: TIMESTEP
+243
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.06179 -2.38383e-05 0 -3769.55 -0.0774009 0 -8.17474e+07 -0.000376315 
+ITEM: TIMESTEP
+244
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.06657 -2.39364e-05 0 -3770.32 -0.0774009 0 -8.22669e+07 -0.000378709 
+ITEM: TIMESTEP
+245
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.07135 -2.40345e-05 0 -3771.17 -0.0774009 0 -8.2788e+07 -0.000381109 
+ITEM: TIMESTEP
+246
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.07613 -2.41326e-05 0 -3772.11 -0.0774009 0 -8.33104e+07 -0.000383515 
+ITEM: TIMESTEP
+247
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.08091 -2.42307e-05 0 -3773.14 -0.0774009 0 -8.38342e+07 -0.000385926 
+ITEM: TIMESTEP
+248
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.0857 -2.43288e-05 0 -3774.25 -0.0774009 0 -8.43595e+07 -0.000388343 
+ITEM: TIMESTEP
+249
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.09048 -2.44269e-05 0 -3775.44 -0.0774009 0 -8.48862e+07 -0.000390765 
+ITEM: TIMESTEP
+250
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.09527 -2.4525e-05 0 -3776.72 -0.0774009 0 -8.54142e+07 -0.000393193 
+ITEM: TIMESTEP
+251
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.10006 -2.46231e-05 0 -3778.07 -0.0774009 0 -8.59437e+07 -0.000395626 
+ITEM: TIMESTEP
+252
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.10485 -2.47212e-05 0 -3779.5 -0.0774009 0 -8.64745e+07 -0.000398064 
+ITEM: TIMESTEP
+253
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.10964 -2.48193e-05 0 -3781.01 -0.0774009 0 -8.70068e+07 -0.000400508 
+ITEM: TIMESTEP
+254
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.11443 -2.49174e-05 0 -3782.59 -0.0774009 0 -8.75404e+07 -0.000402957 
+ITEM: TIMESTEP
+255
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.11923 -2.50155e-05 0 -3784.25 -0.0774009 0 -8.80754e+07 -0.000405412 
+ITEM: TIMESTEP
+256
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.12403 -2.51136e-05 0 -3785.98 -0.0774009 0 -8.86117e+07 -0.000407872 
+ITEM: TIMESTEP
+257
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.12883 -2.52117e-05 0 -3787.78 -0.0774009 0 -8.91494e+07 -0.000410337 
+ITEM: TIMESTEP
+258
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.13363 -2.53098e-05 0 -3787.52 -0.0774009 0 -8.96885e+07 -0.000412807 
+ITEM: TIMESTEP
+259
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.13842 -2.54079e-05 0 -3784.21 -0.0774009 0 -9.02289e+07 -0.000415283 
+ITEM: TIMESTEP
+260
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.14322 -2.5506e-05 0 -3781.16 -0.0774009 0 -9.07706e+07 -0.000417764 
+ITEM: TIMESTEP
+261
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.14801 -2.56041e-05 0 -3778.32 -0.0774009 0 -9.13137e+07 -0.00042025 
+ITEM: TIMESTEP
+262
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.15279 -2.57022e-05 0 -3775.66 -0.0774009 0 -9.18581e+07 -0.000422742 
+ITEM: TIMESTEP
+263
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.15757 -2.58003e-05 0 -3773.2 -0.0774009 0 -9.24038e+07 -0.000425238 
+ITEM: TIMESTEP
+264
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.16235 -2.58984e-05 0 -3770.92 -0.0774009 0 -9.29508e+07 -0.00042774 
+ITEM: TIMESTEP
+265
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.16713 -2.59965e-05 0 -3768.83 -0.0774009 0 -9.34991e+07 -0.000430247 
+ITEM: TIMESTEP
+266
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127999 0.25 0 -1.1719 -2.60946e-05 0 -3766.91 -0.0774009 0 -9.40487e+07 -0.000432758 
+ITEM: TIMESTEP
+267
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.17668 -2.61927e-05 0 -3765.17 -0.0774009 0 -9.45996e+07 -0.000435275 
+ITEM: TIMESTEP
+268
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.18145 -2.62908e-05 0 -3763.59 -0.0774009 0 -9.51518e+07 -0.000437797 
+ITEM: TIMESTEP
+269
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.18621 -2.63889e-05 0 -3762.18 -0.0774009 0 -9.57052e+07 -0.000440324 
+ITEM: TIMESTEP
+270
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.19098 -2.6487e-05 0 -3760.93 -0.0774009 0 -9.62598e+07 -0.000442855 
+ITEM: TIMESTEP
+271
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.19575 -2.65851e-05 0 -3759.83 -0.0774009 0 -9.68157e+07 -0.000445392 
+ITEM: TIMESTEP
+272
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.20051 -2.66832e-05 0 -3758.89 -0.0774009 0 -9.73729e+07 -0.000447934 
+ITEM: TIMESTEP
+273
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.20527 -2.67813e-05 0 -3758.09 -0.0774009 0 -9.79312e+07 -0.00045048 
+ITEM: TIMESTEP
+274
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.21004 -2.68794e-05 0 -3757.44 -0.0774009 0 -9.84908e+07 -0.000453031 
+ITEM: TIMESTEP
+275
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.2148 -2.69775e-05 0 -3756.93 -0.0774009 0 -9.90516e+07 -0.000455587 
+ITEM: TIMESTEP
+276
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.21956 -2.70756e-05 0 -3756.55 -0.0774009 0 -9.96137e+07 -0.000458148 
+ITEM: TIMESTEP
+277
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.22432 -2.71737e-05 0 -3756.3 -0.0774009 0 -1.00177e+08 -0.000460713 
+ITEM: TIMESTEP
+278
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.22908 -2.72718e-05 0 -3756.19 -0.0774009 0 -1.00741e+08 -0.000463283 
+ITEM: TIMESTEP
+279
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.23384 -2.73699e-05 0 -3756.19 -0.0774009 0 -1.01307e+08 -0.000465858 
+ITEM: TIMESTEP
+280
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.2386 -2.7468e-05 0 -3756.32 -0.0774009 0 -1.01874e+08 -0.000468438 
+ITEM: TIMESTEP
+281
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.24336 -2.75661e-05 0 -3756.57 -0.0774009 0 -1.02441e+08 -0.000471022 
+ITEM: TIMESTEP
+282
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.24812 -2.76642e-05 0 -3756.93 -0.0774009 0 -1.03011e+08 -0.000473611 
+ITEM: TIMESTEP
+283
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.25289 -2.77623e-05 0 -3757.4 -0.0774009 0 -1.03581e+08 -0.000476204 
+ITEM: TIMESTEP
+284
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.25765 -2.78604e-05 0 -3757.98 -0.0774009 0 -1.04152e+08 -0.000478802 
+ITEM: TIMESTEP
+285
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.26241 -2.79585e-05 0 -3758.66 -0.0774009 0 -1.04725e+08 -0.000481405 
+ITEM: TIMESTEP
+286
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.26718 -2.80566e-05 0 -3759.44 -0.0774009 0 -1.05298e+08 -0.000484012 
+ITEM: TIMESTEP
+287
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.27194 -2.81547e-05 0 -3760.33 -0.0774009 0 -1.05873e+08 -0.000486624 
+ITEM: TIMESTEP
+288
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.27671 -2.82528e-05 0 -3761.3 -0.0774009 0 -1.06449e+08 -0.00048924 
+ITEM: TIMESTEP
+289
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.28148 -2.83509e-05 0 -3762.37 -0.0774009 0 -1.07026e+08 -0.00049186 
+ITEM: TIMESTEP
+290
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.28625 -2.8449e-05 0 -3763.52 -0.0774009 0 -1.07604e+08 -0.000494485 
+ITEM: TIMESTEP
+291
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.29102 -2.85471e-05 0 -3764.76 -0.0774009 0 -1.08183e+08 -0.000497114 
+ITEM: TIMESTEP
+292
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.29579 -2.86452e-05 0 -3766.08 -0.0774009 0 -1.08763e+08 -0.000499748 
+ITEM: TIMESTEP
+293
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.30057 -2.87433e-05 0 -3767.48 -0.0774009 0 -1.09344e+08 -0.000502386 
+ITEM: TIMESTEP
+294
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.30535 -2.88414e-05 0 -3768.95 -0.0774009 0 -1.09927e+08 -0.000505029 
+ITEM: TIMESTEP
+295
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.31013 -2.89395e-05 0 -3770.5 -0.0774009 0 -1.1051e+08 -0.000507675 
+ITEM: TIMESTEP
+296
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.31491 -2.90376e-05 0 -3772.12 -0.0774009 0 -1.11095e+08 -0.000510326 
+ITEM: TIMESTEP
+297
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.31969 -2.91357e-05 0 -3773.8 -0.0774009 0 -1.1168e+08 -0.000512982 
+ITEM: TIMESTEP
+298
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.32447 -2.92338e-05 0 -3775.55 -0.0774009 0 -1.12267e+08 -0.000515641 
+ITEM: TIMESTEP
+299
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.32926 -2.93319e-05 0 -3777.37 -0.0774009 0 -1.12854e+08 -0.000518305 
+ITEM: TIMESTEP
+300
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.33405 -2.943e-05 0 -3779.24 -0.0774009 0 -1.13443e+08 -0.000520973 
+ITEM: TIMESTEP
+301
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.33884 -2.95281e-05 0 -3781.16 -0.0774009 0 -1.14033e+08 -0.000523645 
+ITEM: TIMESTEP
+302
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.34364 -2.96262e-05 0 -3783.15 -0.0774009 0 -1.14623e+08 -0.000526322 
+ITEM: TIMESTEP
+303
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.34844 -2.97243e-05 0 -3785.18 -0.0774009 0 -1.15215e+08 -0.000529002 
+ITEM: TIMESTEP
+304
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.35324 -2.98224e-05 0 -3787.26 -0.0774009 0 -1.15807e+08 -0.000531687 
+ITEM: TIMESTEP
+305
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.35804 -2.99205e-05 0 -3789.39 -0.0774009 0 -1.16401e+08 -0.000534376 
+ITEM: TIMESTEP
+306
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.36284 -3.00186e-05 0 -3791.56 -0.0774009 0 -1.16996e+08 -0.000537069 
+ITEM: TIMESTEP
+307
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.36765 -3.01167e-05 0 -3793.77 -0.0774009 0 -1.17591e+08 -0.000539766 
+ITEM: TIMESTEP
+308
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.37246 -3.02148e-05 0 -3796.02 -0.0774009 0 -1.18188e+08 -0.000542467 
+ITEM: TIMESTEP
+309
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.37728 -3.03129e-05 0 -3798.31 -0.0774009 0 -1.18786e+08 -0.000545173 
+ITEM: TIMESTEP
+310
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.3821 -3.0411e-05 0 -3800.63 -0.0774009 0 -1.19384e+08 -0.000547882 
+ITEM: TIMESTEP
+311
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.38692 -3.05091e-05 0 -3802.99 -0.0774009 0 -1.19984e+08 -0.000550595 
+ITEM: TIMESTEP
+312
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.39174 -3.06072e-05 0 -3805.37 -0.0774009 0 -1.20584e+08 -0.000553312 
+ITEM: TIMESTEP
+313
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.39656 -3.07053e-05 0 -3807.78 -0.0774009 0 -1.21185e+08 -0.000556034 
+ITEM: TIMESTEP
+314
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.40139 -3.08034e-05 0 -3810.22 -0.0774009 0 -1.21788e+08 -0.000558759 
+ITEM: TIMESTEP
+315
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.40623 -3.09015e-05 0 -3812.68 -0.0774009 0 -1.22391e+08 -0.000561488 
+ITEM: TIMESTEP
+316
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.41106 -3.09996e-05 0 -3815.16 -0.0774009 0 -1.22995e+08 -0.000564222 
+ITEM: TIMESTEP
+317
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.4159 -3.10977e-05 0 -3817.65 -0.0774009 0 -1.236e+08 -0.000566959 
+ITEM: TIMESTEP
+318
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.42074 -3.11958e-05 0 -3820.17 -0.0774009 0 -1.24207e+08 -0.0005697 
+ITEM: TIMESTEP
+319
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.42559 -3.12939e-05 0 -3822.74 -0.0774009 0 -1.24814e+08 -0.000572445 
+ITEM: TIMESTEP
+320
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.43044 -3.1392e-05 0 -3825.36 -0.0774009 0 -1.25422e+08 -0.000575194 
+ITEM: TIMESTEP
+321
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.43529 -3.14901e-05 0 -3828.01 -0.0774009 0 -1.2603e+08 -0.000577947 
+ITEM: TIMESTEP
+322
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.44014 -3.15882e-05 0 -3830.71 -0.0774009 0 -1.2664e+08 -0.000580703 
+ITEM: TIMESTEP
+323
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.445 -3.16863e-05 0 -3833.43 -0.0774009 0 -1.27251e+08 -0.000583464 
+ITEM: TIMESTEP
+324
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.44986 -3.17844e-05 0 -3836.19 -0.0774009 0 -1.27862e+08 -0.000586228 
+ITEM: TIMESTEP
+325
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.45473 -3.18825e-05 0 -3838.98 -0.0774009 0 -1.28475e+08 -0.000588996 
+ITEM: TIMESTEP
+326
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.45959 -3.19806e-05 0 -3839.11 -0.0774009 0 -1.29088e+08 -0.000591768 
+ITEM: TIMESTEP
+327
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.46446 -3.20787e-05 0 -3838.36 -0.0774009 0 -1.29702e+08 -0.000594543 
+ITEM: TIMESTEP
+328
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.46932 -3.21768e-05 0 -3837.72 -0.0774009 0 -1.30317e+08 -0.000597323 
+ITEM: TIMESTEP
+329
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.47419 -3.22749e-05 0 -3837.17 -0.0774009 0 -1.30933e+08 -0.000600105 
+ITEM: TIMESTEP
+330
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.47905 -3.2373e-05 0 -3836.71 -0.0774009 0 -1.3155e+08 -0.000602892 
+ITEM: TIMESTEP
+331
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.48391 -3.24711e-05 0 -3836.33 -0.0774009 0 -1.32167e+08 -0.000605682 
+ITEM: TIMESTEP
+332
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.48877 -3.25692e-05 0 -3836.04 -0.0774009 0 -1.32786e+08 -0.000608476 
+ITEM: TIMESTEP
+333
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.49363 -3.26673e-05 0 -3835.83 -0.0774009 0 -1.33405e+08 -0.000611274 
+ITEM: TIMESTEP
+334
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.4985 -3.27654e-05 0 -3835.71 -0.0774009 0 -1.34025e+08 -0.000614075 
+ITEM: TIMESTEP
+335
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.50336 -3.28635e-05 0 -3835.66 -0.0774009 0 -1.34646e+08 -0.00061688 
+ITEM: TIMESTEP
+336
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.50822 -3.29616e-05 0 -3835.69 -0.0774009 0 -1.35268e+08 -0.000619689 
+ITEM: TIMESTEP
+337
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127998 0.25 0 -1.51308 -3.30597e-05 0 -3835.79 -0.0774009 0 -1.3589e+08 -0.000622501 
+ITEM: TIMESTEP
+338
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.51794 -3.31578e-05 0 -3835.97 -0.0774009 0 -1.36514e+08 -0.000625316 
+ITEM: TIMESTEP
+339
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.5228 -3.32559e-05 0 -3836.22 -0.0774009 0 -1.37138e+08 -0.000628135 
+ITEM: TIMESTEP
+340
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.52767 -3.3354e-05 0 -3836.53 -0.0774009 0 -1.37763e+08 -0.000630958 
+ITEM: TIMESTEP
+341
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.53253 -3.34521e-05 0 -3836.92 -0.0774009 0 -1.38389e+08 -0.000633784 
+ITEM: TIMESTEP
+342
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.53739 -3.35502e-05 0 -3837.37 -0.0774009 0 -1.39015e+08 -0.000636613 
+ITEM: TIMESTEP
+343
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.54226 -3.36483e-05 0 -3837.88 -0.0774009 0 -1.39643e+08 -0.000639447 
+ITEM: TIMESTEP
+344
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.54712 -3.37464e-05 0 -3838.46 -0.0774009 0 -1.40271e+08 -0.000642283 
+ITEM: TIMESTEP
+345
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.55199 -3.38445e-05 0 -3839.09 -0.0774009 0 -1.409e+08 -0.000645123 
+ITEM: TIMESTEP
+346
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.55686 -3.39426e-05 0 -3839.79 -0.0774009 0 -1.4153e+08 -0.000647967 
+ITEM: TIMESTEP
+347
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.56172 -3.40407e-05 0 -3840.53 -0.0774009 0 -1.4216e+08 -0.000650814 
+ITEM: TIMESTEP
+348
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.56659 -3.41388e-05 0 -3841.33 -0.0774009 0 -1.42792e+08 -0.000653664 
+ITEM: TIMESTEP
+349
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.57146 -3.42369e-05 0 -3842.18 -0.0774009 0 -1.43424e+08 -0.000656518 
+ITEM: TIMESTEP
+350
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.57633 -3.4335e-05 0 -3843.09 -0.0774009 0 -1.44057e+08 -0.000659375 
+ITEM: TIMESTEP
+351
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.5812 -3.44331e-05 0 -3844.03 -0.0774009 0 -1.4469e+08 -0.000662236 
+ITEM: TIMESTEP
+352
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.58608 -3.45312e-05 0 -3845.03 -0.0774009 0 -1.45325e+08 -0.0006651 
+ITEM: TIMESTEP
+353
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.59095 -3.46293e-05 0 -3846.07 -0.0774009 0 -1.4596e+08 -0.000667967 
+ITEM: TIMESTEP
+354
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.59583 -3.47274e-05 0 -3847.14 -0.0774009 0 -1.46596e+08 -0.000670838 
+ITEM: TIMESTEP
+355
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.60071 -3.48255e-05 0 -3848.26 -0.0774009 0 -1.47233e+08 -0.000673712 
+ITEM: TIMESTEP
+356
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.60558 -3.49236e-05 0 -3849.42 -0.0774009 0 -1.4787e+08 -0.00067659 
+ITEM: TIMESTEP
+357
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 0.2
+0 0.5
+-1e-05 1e-05
+ITEM: ATOMS type id x y z vx vy vz fx fy fz v_sigmaXX c_strain[1] 
+1 1529 0.127997 0.25 0 -1.61046 -3.50217e-05 0 -3850.61 -0.0774009 0 -1.48508e+08 -0.000679471 
