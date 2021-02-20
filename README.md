@@ -17,7 +17,7 @@ The software includes
 * Fluid-particle interaction
 * Parallel processing
 
-If you use this solver in a project or scholarly work, please include the following citation, [Tayeb et. al. (2019)](## References). 
+If you use this solver in a project or scholarly work, please include the following citation, [Tayeb et. al. (2019)](##References). 
 
 ## Installation
 The current version of the code uses the [LAMMPS 2015](https://lammps.sandia.gov/). The main part of the code resides in the USER-SPH package. The USER-SPH package is modified to incorporate the new contact force model. The atom style is also changed from meso to meso/multiphase for handling multiple phases. The default integrator is also changed from meso to meso/PEC/solidMech.
@@ -36,7 +36,7 @@ Several example cases are provided in the [`examples`](examples). The gif animat
 
 ## Cyclic granular jamming ([`jamming`](examples/jamming))
 
-This is the case used for studying cycling isotropic jamming of 2d granular material in the [paper](## References). There are 2400 granular disk each with 61 SPH particles arranged in an [optimum packing configuration](https://link.springer.com/article/10.1007/PL00009314). The initial particle configuration are read from the leadCircleOnly.dat file. A sample animated gif of the simulation is also included. 
+This is the case used for studying cycling isotropic jamming of 2d granular material in the [paper](##References). There are 2400 granular disk each with 61 SPH particles arranged in an [optimum packing configuration](https://link.springer.com/article/10.1007/PL00009314). The initial particle configuration are read from the leadCircleOnly.dat file. A sample animated gif of the simulation is also included. 
 
 <img src="https://github.com/rtymea14/SPHContact/blob/main/examples/jamming/jamming.gif" width="416" height="366" />
 
