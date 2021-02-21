@@ -4,9 +4,9 @@ Smoothed Particle Hydrodynamics (SPH) code with a model for contact detection an
 Lead developer: Raihan Tayeb, Doctoral Candidate, University of Missouri-Columbia
 
 ## Overview
-A software package for mesoscopic simulation developed using open-sourced softwares, [OpenFOAM](https://openfoam.org), [OpenSMOKE++](https://www.opensmokepp.polimi.it), [LIGGGHTS](https://www.cfdem.com/liggghtsr-open-source-discrete-element-method-particle-simulation-code) and [CFDEM](https://www.cfdem.com/cfdemrcoupling-open-source-cfd-dem-framework)
+A software package for low and high velocity impact simulation developed using the open-sourced program [LAMMPS 2015](https://lammps.sandia.gov/).
 
-It is employed to investigate the evaporation induced self-assembly of charged polymeric nanoparticles in microdroplet solution
+It is employed to investigate the cyclic isotropic jamming of 2d granular material.
 
 The software includes
 * A boundary particle detection model
@@ -35,9 +35,17 @@ $ make mpi
 
 Several example cases are provided in the [`examples`](examples). The gif animation files for additional cases are provided in the [`allGifs`](examples/allGifs).
 
+## Plastic loading test ([`plasticityJKR`](examples/plasticityJKR))
+
+A point load is applied to a sphere to demonstrate the elasto-plastic model based on Johnson-Cook. The gif illustrates the stress propagating through the sphere. The local stress and strain at a point in the sphere is saved in the se.lammpstrj file during runtime. By running the plotSE.sh bash script a data file se.dat is created and a plot of stress against strain is made and saved as sigmaVsStrain.jpg image file. The plot clearly demonstrates both the elastic and plastic loading condition of the sphere.
+
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/plasticityJKR/disk.gif" width="360" height="252" />](examples/plasticityJKR/disk.gif)
+
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/plasticityJKR/sigmaVsStrain2.jpg" width="360" height="252" />](examples/plasticityJKR/sigmaVsStrain2.jpg)
+
 ## Cyclic granular jamming ([`jamming`](examples/jamming))
 
-This is the case used for studying cycling isotropic jamming of 2d granular material in the [paper](#References). There are 2400 granular disk each with 61 SPH particles arranged in an [optimum packing configuration](https://link.springer.com/article/10.1007/PL00009314). The initial particle configuration are read from the leadCircleOnly.dat file. A sample animated gif of the simulation is also included. 
+This is the case used for studying cyclic isotropic jamming of 2d granular material in the [paper](#References). There are 2400 granular disk each with 61 SPH particles arranged in an [optimum packing configuration](https://link.springer.com/article/10.1007/PL00009314). The initial particle configuration are read from the leadCircleOnly.dat file. A sample animated gif of the simulation is also included. 
 
 <img src="https://github.com/rtymea14/SPHContact/blob/main/examples/jamming/jamming.gif" width="416" height="366" />
 
