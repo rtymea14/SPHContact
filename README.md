@@ -4,7 +4,7 @@ Smoothed Particle Hydrodynamics (SPH) code with a model for contact detection an
 Lead developer: Raihan Tayeb, Doctoral Candidate, University of Missouri-Columbia
 
 ## Overview
-A software for mesoscopic simulation developed using open-sourced softwares, [OpenFOAM](https://openfoam.org), [OpenSMOKE++](https://www.opensmokepp.polimi.it), [LIGGGHTS](https://www.cfdem.com/liggghtsr-open-source-discrete-element-method-particle-simulation-code) and [CFDEM](https://www.cfdem.com/cfdemrcoupling-open-source-cfd-dem-framework)
+A software package for mesoscopic simulation developed using open-sourced softwares, [OpenFOAM](https://openfoam.org), [OpenSMOKE++](https://www.opensmokepp.polimi.it), [LIGGGHTS](https://www.cfdem.com/liggghtsr-open-source-discrete-element-method-particle-simulation-code) and [CFDEM](https://www.cfdem.com/cfdemrcoupling-open-source-cfd-dem-framework)
 
 It is employed to investigate the evaporation induced self-assembly of charged polymeric nanoparticles in microdroplet solution
 
@@ -15,12 +15,13 @@ The software includes
 * Several different equation of state models exist for the pressure calculation
 * Multi-component liquids (and gases) model following the work of [Hu and Adams](https://www.sciencedirect.com/science/article/pii/S0021999105004195) is available
 * Fluid-particle interaction
+* Heat conduction and phase change
 * Parallel processing
 
 If you use this solver in a project or scholarly work, please include the following citation, [Tayeb et. al. (2019)](#References). 
 
 ## Installation
-The current version of the code uses the [LAMMPS 2015](https://lammps.sandia.gov/). The main part of the code resides in the USER-SPH package. The USER-SPH package is modified to incorporate the new contact force model. The atom style is also changed from meso to meso/multiphase for handling multiple phases. The default integrator is also changed from meso to meso/PEC/solidMech.
+The current version of the code uses the [LAMMPS 2015](https://lammps.sandia.gov/). The USER-SPH package also requires the [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl/). After downloading and installing GSL from the link given please change the GSL_INC and GSL_PATH in the Makefile.mpi file in the MAKE folder as required. The main part of the code resides in the USER-SPH package. The USER-SPH package is modified to incorporate the new contact force model. The atom style is also changed from meso to meso/multiphase for handling multiple phases. The default integrator is also changed from meso to meso/PEC/solidMech.
 
 **To Install:**
 Navigate to a working folder in a shell terminal, clone the git code repository, and build.
