@@ -9,6 +9,11 @@ LAMMPS.  Currently, the package has the following features:
   input script
 * output commands to access internal energy and density for dumping and 
   thermo output
+* also contains pair styles to calculate solid mechanics problem 
+  involving elasto-plastic deformation. A solid contact model based
+  on penalty parameter for accurate calculation of force for low 
+  velocity imapct is also included. The codes are developed by 
+  Raihan Tayeb (rthvc@umsystem.edu)
 
 See the file doc/USER/sph/SPH_LAMMPS_userguide.pdf to get started.
 
