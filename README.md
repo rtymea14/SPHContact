@@ -78,8 +78,8 @@ Four other case results are shown below: two rubber rings colliding, a rubber bu
 [<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/rubberRings.gif" width="252" height="360" />](examples/allGifs/rubberRings.gif)
 [<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/penetration.gif" width="252" height="360" />](examples/allGifs/penetration.gif)
 
-[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/porous.gif" width="252" height="360" />](examples/allGifs/porous.gif)
-[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/sphpacking.gif" width="252" height="360" />](examples/allGifs/sphpacking.gif)
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/porous.gif" width="252" height="300" />](examples/allGifs/porous.gif)
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/sphpacking.gif" width="252" height="300" />](examples/allGifs/sphpacking.gif)
 
 ## Contribute
 Open to collaboration with other investigators studying SPH and granular materials. Please [contact us](mailto:rthvc@umsystem.edu) if you are interested in expanding the solver or find bugs to correct. Limited support (on a case-by-case basis) or consulting servies can also be provided.
