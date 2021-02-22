@@ -75,8 +75,8 @@ Poiseuille flow through a horizontal pipe is simulated in this case. Periodic bo
 ## Other cases
 Four other case results are shown below: two rubber rings colliding, a rubber bullet penetrating a soft membrane, flow through a porous material and some elliptic particles colliding.
 
-[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/rubberRings.gif" width="252" height="360" />](examples/allGifs/rubberRings.gif)
-[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/penetration.gif" width="252" height="360" />](examples/allGifs/penetration.gif)
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/rubberRings.gif" width="300" height="360" />](examples/allGifs/rubberRings.gif)
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/penetration.gif" width="204" height="360" />](examples/allGifs/penetration.gif)
 
 [<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/porous.gif" width="252" height="300" />](examples/allGifs/porous.gif)
 [<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/allGifs/sphpacking.gif" width="252" height="300" />](examples/allGifs/sphpacking.gif)
