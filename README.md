@@ -65,7 +65,13 @@ Two elastic 2d disk of diameter 50 mm colliding at 10 m/s from opposite directio
 
 [<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/diskColliding/force.png" width="360" height="252" />](examples/diskColliding/force.png)
 [<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/diskColliding/SMDplot.jpg" width="360" height="252" />](examples/diskColliding/SMDplot.jpg)
-  
+
+## Poiseuille flow ([`poiseuille`](examples/poiseuille))
+Poiseuille flow through a horizontal pipe is simulated in this case. Periodic boundary conditions are used. The velocity profile is stored at runtime in the vy.profile file. To plot the data the data for the last timestep need to be used. The result for two flow profile at Re = 0.06 and Re = 6 are shown. Please follow the instructions of the [Readme](poiseuille/README.md) file before proceeding to run the case.
+
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/diskColliding/force.png" width="360" height="252" />](examples/poiseuille/Re0_06.png)
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/diskColliding/SMDplot.jpg" width="360" height="252" />](examples/poiseuille/Re6.png)
+
 ## Contribute
 Open to collaboration with other investigators studying SPH and granular materials. Please [contact us](mailto:rthvc@umsystem.edu) if you are interested in expanding the solver or find bugs to correct. Limited support (on a case-by-case basis) or consulting servies can also be provided.
 
