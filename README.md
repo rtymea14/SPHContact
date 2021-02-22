@@ -35,13 +35,13 @@ $ make mpi
 
 Several example cases are provided in the [`examples`](examples). The gif animation files for additional cases are provided in the [`allGifs`](examples/allGifs).
 
-## Plastic loading test ([`plasticityJKR`](examples/plasticityJKR))
+## Plastic loading test ([`plasticityJC`](examples/plasticityJC))
 
 A point load is applied to a sphere to demonstrate the elasto-plastic model based on Johnson-Cook. The gif illustrates the stress propagating through the sphere. The local stress and strain at a point in the sphere is saved in the se.lammpstrj file during runtime. By running the plotSE.sh bash script a data file se.dat is created and a plot of stress against strain is made and saved as sigmaVsStrain.jpg image file. The plot clearly demonstrates both the elastic and plastic loading condition of the sphere.
 
-[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/plasticityJKR/disk.gif" width="360" height="252" />](examples/plasticityJKR/disk.gif)
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/plasticityJC/disk.gif" width="360" height="252" />](examples/plasticityJC/disk.gif)
 
-[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/plasticityJKR/sigmaVsStrain2.jpg" width="360" height="252" />](examples/plasticityJKR/sigmaVsStrain2.jpg)
+[<img src="https://github.com/rtymea14/SPHContact/blob/main/examples/plasticityJC/sigmaVsStrain2.jpg" width="360" height="252" />](examples/plasticityJC/sigmaVsStrain2.jpg)
 
 ## Cyclic granular jamming ([`jamming`](examples/jamming))
 
