@@ -1,7 +1,7 @@
 # SPHContact
 Smoothed Particle Hydrodynamics (SPH) code with a model for contact detection and accurate force calculation.
 
-Lead developer: Raihan Tayeb, Doctoral Candidate, University of Missouri-Columbia and Dr. Yijin Mao (co-author of the paper).
+Lead developer: Dr. Raihan Tayeb, University of Missouri-Columbia and Dr. Yijin Mao (co-author of the paper).
 
 ## Overview
 A software package for low and high velocity impact simulation developed using the open-sourced program [LAMMPS 2015](https://lammps.sandia.gov/).
